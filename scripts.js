@@ -27,3 +27,4 @@ const ratelimit = function(ip) {
         })
     }
 }
+export ratelimit
