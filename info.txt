@@ -1,0 +1,5 @@
+use sessionID cookies for logs viewing verification
+
+use json to keep logs
+
+clear logs every day
