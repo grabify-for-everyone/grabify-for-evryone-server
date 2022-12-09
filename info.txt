@@ -1,5 +1,5 @@
-use sessionID cookies for logs viewing verification
+webserver/view/idhere to view id
 
-use json to keep logs
+use json to keep sessions
 
-clear logs every day
+clear sessions every day
